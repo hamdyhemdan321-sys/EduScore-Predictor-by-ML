@@ -96,9 +96,6 @@ Example output from evaluation:
 ## Contributing
 Contributions are welcome! Feel free to fork the repo, make improvements, and submit a pull request. For major changes, please open an issue first to discuss.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Dataset provided by [Kaggle user spscientist](https://www.kaggle.com/spscientist).
 - Built with inspiration from standard ML workflows in education analytics.
